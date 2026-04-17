@@ -271,21 +271,28 @@ Tickets by Priority
 Average Ticket Resolution Time
 Tickets Per Support Agent
 
-🖼️ 13. Screenshots
+## 📸 Screenshots
 
-Login Page
+### 🔐 Login Page
+![Login Page](screenshots/user_login.png)
 
-User Profile
+### 👤 User Profile
+![User Profile](screenshots/user_profile.png)
 
-Ticket Creation
+### 🎫 Ticket Creation
+![Ticket Creation](screenshots/ticket_form.png)
 
-Admin Dashboard
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshots/admin_tickets_dashboard.png)
 
-Agent Dashboard
+### 🧑‍💼 Agent Dashboard
+![Agent Dashboard](screenshots/agent_dashboard.png)
 
-Ticket Details
+### 📄 Ticket Details
+![Ticket Details](screenshots/ticket_info.png)
 
-Email Notification
+### 📧 Email Notification
+![Email Notification](screenshots/ticket_status_mail.png)
 
 ⚡ 14. Caching Strategy
 GET /tickets cached (120 sec)
